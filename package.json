@@ -1,0 +1,16 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "\"This the backend Youtube App Clone Big Project\"",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3",
+    "prettier": "^3.3.0"
+  }
+}
